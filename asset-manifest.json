@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/messager.github.io/static/css/main.dc416a84.css",
+    "main.js": "/messager.github.io/static/js/main.70335a3c.js",
+    "static/css/374.039cde94.chunk.css": "/messager.github.io/static/css/374.039cde94.chunk.css",
+    "static/js/374.c2b4b761.chunk.js": "/messager.github.io/static/js/374.c2b4b761.chunk.js",
+    "static/css/931.039cde94.chunk.css": "/messager.github.io/static/css/931.039cde94.chunk.css",
+    "static/js/931.915b9720.chunk.js": "/messager.github.io/static/js/931.915b9720.chunk.js",
+    "static/css/324.9f260d3a.chunk.css": "/messager.github.io/static/css/324.9f260d3a.chunk.css",
+    "static/js/324.8d98d3c9.chunk.js": "/messager.github.io/static/js/324.8d98d3c9.chunk.js",
+    "static/js/705.65545c7b.chunk.js": "/messager.github.io/static/js/705.65545c7b.chunk.js",
+    "index.html": "/messager.github.io/index.html",
+    "main.dc416a84.css.map": "/messager.github.io/static/css/main.dc416a84.css.map",
+    "main.70335a3c.js.map": "/messager.github.io/static/js/main.70335a3c.js.map",
+    "374.039cde94.chunk.css.map": "/messager.github.io/static/css/374.039cde94.chunk.css.map",
+    "374.c2b4b761.chunk.js.map": "/messager.github.io/static/js/374.c2b4b761.chunk.js.map",
+    "931.039cde94.chunk.css.map": "/messager.github.io/static/css/931.039cde94.chunk.css.map",
+    "931.915b9720.chunk.js.map": "/messager.github.io/static/js/931.915b9720.chunk.js.map",
+    "324.9f260d3a.chunk.css.map": "/messager.github.io/static/css/324.9f260d3a.chunk.css.map",
+    "324.8d98d3c9.chunk.js.map": "/messager.github.io/static/js/324.8d98d3c9.chunk.js.map",
+    "705.65545c7b.chunk.js.map": "/messager.github.io/static/js/705.65545c7b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc416a84.css",
+    "static/js/main.70335a3c.js"
+  ]
+}
